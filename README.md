@@ -1,6 +1,6 @@
-### Hi there 👋, akhdari nour el houda 
+### Hi buddy😎, it's akhdari nour el houda 
 
-it's Nour , 
+aka nour :) 
 🌟1 st year cs's student (unim)✨
 📍 algeries 
 💫 a member of gdsc (university of boumerdas) 
