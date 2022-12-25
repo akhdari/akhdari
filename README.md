@@ -3,4 +3,4 @@
 📍 algeries 
 💫 a member of gdsc (university of boumerdas)
 ☆ begginer in 💀 cyber security \ 🤖 app developement 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhdari=contribs,prs)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhdari)](https://github.com/anuraghazra/github-readme-stats)
