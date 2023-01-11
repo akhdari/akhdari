@@ -22,7 +22,7 @@ module.exports = {
 
             memberTarget.roles.remove(muteRole.id);
             memberTarget.roles.add(mainRole.id);
-            message.channel.send(`${tag}, <@${memberTarget.user.id}> has been muted.`);
+            message.channel.send(`${tag}, <@${memberTarget.user.id}> has been unmuted.`);
             return
            }
 
